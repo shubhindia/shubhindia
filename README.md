@@ -8,11 +8,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🐳 Docker & ☸️ Kubernetes
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="12" />] Python
 - ⚡ Fun fact: I love to play guitar
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/shubhi123)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shubhindia Spotify Playing" width="350" />](https://open.spotify.com/user/shubhi123)
 
 ### Connect with me:
 

@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 🐳 Docker & ☸️ Kubernetes
 - ⚡ Fun fact: I love to play guitar
 
 ### Spotify Playing 🎧

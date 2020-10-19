@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🐳 Docker & ☸️ Kubernetes
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="12" />] Python
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="12" /> Python
 - ⚡ Fun fact: I love to play guitar
 
 ### Spotify Playing 🎧

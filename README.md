@@ -10,7 +10,7 @@
 - 🐳 Docker & ☸️ Kubernetes
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="12" /> Python
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="15" /> Linux
-- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Linux" width="15" /> Android
+- <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Linux" width="15" /> Android (AOSP)
 - ⚡ Fun fact: I love to play guitar
 
 ### Spotify Playing 🎧

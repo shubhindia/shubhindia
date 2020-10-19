@@ -9,7 +9,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🐳 Docker & ☸️ Kubernetes
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="12" /> Python
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="12" >Linux
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="15" > Linux
 - ⚡ Fun fact: I love to play guitar
 
 ### Spotify Playing 🎧

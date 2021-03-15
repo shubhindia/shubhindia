@@ -6,7 +6,7 @@
 ## I'm an Opensource enthusiast and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects, Learn Golang
 - 🐳 Docker & ☸️ Kubernetes
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="12" /> Python
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="15" /> Linux

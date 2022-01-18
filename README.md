@@ -36,4 +36,4 @@
 
 </details>
 
-![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
+![Metrics](https://github.com/shubhindia/shubhindia/blob/master/github-metrics.svg)

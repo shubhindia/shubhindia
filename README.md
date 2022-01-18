@@ -36,7 +36,4 @@
 
 </details>
 
-[linkedin]: https://linkedin.com/in/shubhindia123
-[instagram]: https://instagram.com/shubh_cyanogen
-[twitter]: https://twitter.com/shubhindia123
-[website]: https://geekpalaceweb.wordpress.com/
+![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)

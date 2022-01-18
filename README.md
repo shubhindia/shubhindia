@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgeekpalaceweb.wordpress.com%2F)](https://geekpalaceweb.wordpress.com/)
 
 
-## I'm an Opensource enthusiast and Developer!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021-22 Goals: Contribute more to Open Source projects

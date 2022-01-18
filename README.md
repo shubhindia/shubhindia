@@ -37,3 +37,7 @@
 </details>
 
 ![Metrics](https://github.com/shubhindia/shubhindia/blob/master/github-metrics.svg)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>

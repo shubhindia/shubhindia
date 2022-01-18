@@ -5,6 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+DevOps+Engineer;and+a+homemade+chef%3F)](https://git.io/typing-svg)
 
+<!-- markdownlint-disable MD033 -->
+<a href="https://app.daily.dev/shubhindia"><img src="https://github.com/shubhindia/shubhindia/blob/master/devcard.svg" width="200" align="right" alt="Shubham Gopale's Dev Card"/></a>
+<!-- markdownlint-enable MD033 -->
+
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021-22 Goals: Contribute more to Open Source projects
 - 🐳 Docker & ☸️ Kubernetes

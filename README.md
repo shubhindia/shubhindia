@@ -25,6 +25,12 @@
 
 ---
 
+## 🎧 What's Vibin?
+
+[![Spotify](https://github.com/edorado93/edorado93/blob/main/spotify.svg)](https://open.spotify.com/user/shubhi123)
+
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 

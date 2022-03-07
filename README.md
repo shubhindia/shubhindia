@@ -1,4 +1,4 @@
-### Hi there, I'm Shubham Gopale - aka [shubhindia/shubhcyanogen][website] 👋
+### Hi there, I'm Shubham Gopale - aka [shubhindia/shubhcyanogen] 👋
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgeekpalaceweb.wordpress.com%2F)](https://geekpalaceweb.wordpress.com/)
 

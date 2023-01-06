@@ -17,7 +17,6 @@
 - <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="Golang" width="12" /> Golang
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="15" /> Linux
 - <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Linux" width="15" /> Android (AOSP)
-- ⚡ Fun fact: I love to play guitar
 
 ### Connect with me:
 

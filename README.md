@@ -11,7 +11,7 @@
 <!-- markdownlint-enable MD033 -->
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021-22 Goals: Contribute more to Open Source projects
+- 🥅 2023-24 Goals: Contribute more to Open Source projects
 - 🐳 Docker & ☸️ Kubernetes
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="12" /> Python
 - <img src="https://www.vectorlogo.zone/logos/golang/golang-vertical.svg" alt="Golang" width="12" /> Golang

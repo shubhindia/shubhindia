@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1683" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1400" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.repository{display:flex;flex-direction:column;width:100%;margin:6px 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.number,.token.regex{color:#2777aa}.token.tag{color:#48428a}.twemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-width-half{width:50%}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}.gauge text,h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.people{padding:0 10px}.people .avatar{margin:0 2px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value-wrapper{margin-bottom:-50px;margin-top:36px;display:none}.achievement .value{margin-left:46px}.achievements.compact{display:flex;flex-wrap:wrap}.achievements.compact .achievement{flex-direction:column-reverse;align-items:center;width:80px}#metrics-end,.achievements.compact .info{width:100%}.achievements.compact .achievement .title{margin-bottom:2px;text-transform:capitalize;text-align:center}.achievements.compact .achievement .title .prefix{min-height:13px;font-size:10px;display:block;margin-bottom:-.25rem}.achievements.compact .achievement .value-wrapper{display:flex}.achievements.compact .achievement .gh,.achievements.compact .achievement .text{display:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -30,19 +30,19 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -75,7 +75,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
                             </svg>
-                            73 Pull requests reviewed
+                            74 Pull requests reviewed
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -153,13 +153,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    No license preference
+                                    Prefers Other license
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    0 Releases
+                                    8 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,19 +185,19 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    0 Stargazers
+                                    8 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    0 Forkers
+                                    5 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    0 Watchers
+                                    167 Watchers
                                 </div>
                             </section>
                         </div>
@@ -221,6 +221,12 @@
                             </svg>
                             Commits streaks
                         </h3>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
@@ -2198,6 +2204,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-3.4, 7.90625)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.09375 0,1.09375 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.09375 1.7,2.09375 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2211,17 +2222,17 @@
                 </h2>
                 <div class="row">
                     <section class="people">
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAIFCP/EACMQAAIBBAICAgMAAAAAAAAAAAEDAgAEBREhQRKBBiNRkbH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxESMf/aAAwDAQACEQMRAD8A5qqYDZ9H+VFM+HwETaOfkmwSyUfBSd/YCeyOuN6rvdgg6Mymo3PwsWKKs5GxfYu8HgEHmLIncGD8g91WpQMOTkmEitglA6mDsGnv4dfsv43ZuXeboLmdEa0NDnj3SHV7E5a8xMrmdg4qk9UlMI7jRcuqFQfZSnhbFZxuTLL5F922apPLbeEyV8AcdH9Vr6KKbMXOmSChfJ//2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcABQYI/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQMCBAUABhESEwchMUFRFTNhFiIyQoH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBf/EABsRAAMAAgMAAAAAAAAAAAAAAAABEQITAxJR/9oADAMBAAIRAxEAPwDoY5nFxyoxZyNIZMjqFQvj3iPXno550NDdO3p17L153FzRV4FhguLMU8ngdZ58vPy89Kb9MZG5unJYRFSkywrcis83LixHu10Sl3IrMfudfESsf0499VFjw6bjvDtTb+QUvO32Ix1RUmJCoRnfi/gTH3JEQ5HJPwNZmvH0urHvDO4liabl5SjNV2XbqsFiBD5fCzz+4/gaLrXKr5vgl6nSQztNEGAlcukHpPweJA8fkaRm6fC/OSuTVt23XZOglmUS23CHcdfZYi0lcYGIV9hcQSOOJSHydbnw0RNytxZPprzr5TLMt15rfCYMO0pZ8wfaa5j/ADRrTVTChW6tr5aWfXuTaN2tUzHYFWzXuLMq1xQJMRPp8xIEniQ+ePTWcseGuV3NUr1933qGOoY+B+m47b8JqVWdxxFxlLgkx9hwANNnU1BcjQQWM9veIdhjEOye2USakVW5uvVYL80gkjiP8QfMn1IBJIGt7tvDVNvYKlicYtkalRYUscdZPHqSfeRPJP5J1Y6mm86Pqf/Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIFBwP/xAAsEAABBAEDAwIFBQEAAAAAAAABAgMEEQUAEjETIVEGYRQVIoGRByNBcXPh/8QAGAEAAgMAAAAAAAAAAAAAAAAABQYBBAf/xAAoEQABAgQEBQUAAAAAAAAAAAABAgMABAUREiExQQYTYXGBFSIyQvH/2gAMAwEAAhEDEQA/AOwbyhWhL2OiRGVmkqT01gE8dq7+dWavTWJCQHGnlySkFTiyUm/ajQH9DQv0snOz3I6Zsx0NtfuNjqtqojtRF3wTq9kMZZElsfMqQpwDoiwVE39QtW6hQ7X37+O5pdMmpdwNsTJG5zJJ/IzesPrdfwDltkD6Agb56kk+bRNz42HmzAxIguONthY67dLo3Rsc8ag56gXinFR8ithMm96hESdvfz7/APNFfVuMkxJsiRJyBMlTQCC44UEpo2gAE39zoK+fmKw5IzLcVaB0g2vfe0cHjxWiAokstfPeUVEjS+XcXhipzbs3KtpbCbAC6sOZPfcQ6x0rI4+fDEVELoOuWltt8EgA9t9Hx+QdX2YzOKVJ6k6Q4y80q3Y6kWoVxsNcff8AnQ6cpOLmRpEJttt0P7gquKIoD21r0BtmVDW49HYUpqkNnpj6BtHYavLwya0lQuSNRkfOsAK9NslSH1pO4yIG/Yxm/qPMPzcf8U604z1QW0byQmuAPc8nRMqxaja0i/8AJemn6qTHY78PHs7URQgO7AOVXyfydE4zxcaCnENqV52DUenCpMBYUUG5+OVx16w18OV40uTxoaCgo2AV7rAXtbSP/9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcCAwQI/8QAMBAAAQMCBAMFCAMAAAAAAAAAAQIDBAURAAYSMSFRYQcTFEKRCBUWIjJBgaFxsfH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAID/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxESITFBUf/aAAwDAQACEQMRAD8Aog1eIlstshdQU4VtJJBFvXhv+8EZ1VrDlcWh+pVSE4wUhMeOsgXtv13/AHh2ioU6O1LfbljxEaxebbZK3Pr0b7ch64lvafm6Ay5GnsPRpEtQAS3GPl5r49Lf5gvwLE0hVc7S5ZbdezdkUtVpm8oOFtfDSHFNruk/mwvbrjN6TChuFhzTrRwIHl6Y895L9oGo0Xu4UulxZMELJJCih0XPHjsfTFyLkiux4tVoGZfd9OmtB5tkNMm1yb31NqIN7gi54g4SyEKNpi2NzrIzm1ubSc01AUJT0JbwS27d1dld4LuHY8LnbriR1Wk5jnOvpbgvdwHiShJGgH+OeFVFzPO+HahVXEsuyGFHSlwEpVbTvxufqP3wcb7Tq8JqnUogJbWokshj5L8973/OD1syDjyNatT37OnKmQ5couKrLUiMLjTpUi5/vDJWZE5UbaojU3UmIkj5wq41KK7Gwt5sJMmznK5CdflIbbWgAgNJsPvzvjVm7J1Ln1JuRIS6XFNC9iB5ldMRbXc8y1laVIMCf//Z" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcEBggC/8QALBAAAQMDAwMCBQUAAAAAAAAAAQIDBAAFEQYSEyExQRSRBxUiUWFxgaGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAcEQACAwEAAwAAAAAAAAAAAAABAgADEQQSIUH/2gAMAwEAAhEDEQA/AHDdXY1lssu5zukaK2XHCB4FI5HxD1xKm/MotkQLRneljjBy3+TnOcfb2rQep48aZpW6xJTjTbT0R1oqd7DKCM0gbaEeiLAnXHiVhZDeEBsjuj8/t9qPo62rzIrh4Ev3yEe0NpNwtcSYhspRIZQ6AfAIz/tQ3rankPSjmn0ttadtje3j44rSNp7jCB0rtxTW7uKpW4mQvSVOTONz17d7pEXA9YFx3OitzaMqHtVf+XuJccKJDzeRkp5CEKyPI80LuERpy3SriAW5KJYbTsOEgbD4qTDnypkmS7Lfcfc2j6nDk1KAti7k01c1Nghy26yvFkQ3GRc3A2BlLanM/wB/rV2h6smS4zbyp8ltah9SeNHf2pOsRkPXS4SFlXLGaW42QexDgA/irV6p5aG1KV12ik22fF9RtNIsJJn/2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAQP/xAAuEAABAwIFAwIEBwAAAAAAAAABAgMEBREABhIhMRMiYVFxFBUjoTJBgZGx0fD/xAAYAQEAAwEAAAAAAAAAAAAAAAAGAAMEBf/EACMRAAEDBAEEAwAAAAAAAAAAAAECAwQABREhMRJhgdEiMvD/2gAMAwEAAhEDEQA/ALxyGz4wfPEKJ0viFoR1XA0nblR4GIReZ5wO0xavcDAObM5SGYXTceKyB1QbhOkgjR9wcLpDqozfXnNB7bDRcXwwB05ycnsK1xMJm/Ax7CG14xn1KzQXqXCL9Ta+YvpR9AtgC553uP6+9kH61OZWA8ttIUkKQShXePXtNub/ALYpVcmU/ZePB9VDaXQfi3nyPdSApVygKqUYOcqb9PXc2844MtiqRoiJcl2NZ4ocLcMOFaNCyO+9zuALecXVInOMiQphDLZTY9jYF/fCcrXKojcp51ZWe/QAlKQd/wAgP5wUk3CS5lJOv3am8e1x2SFJG6z+lUOnsyYbU+paFutpKlFgXG3H4gf9xhVjL1KlspcdqmlQKkjVIbF0hRsQFbgWtscUEaQqn5VExlDanlpLigtPaT7C1v0thbL7TVRpEeXMYjuPPJ1KJZRt4G3GOeue+dZ41W5Frj8kc7r/2Q==" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYJ/8QAMRAAAQMDAgQDBQkAAAAAAAAAAQIDBAURIQAGBxMiQRIxUQgyYXGhFBYjNEJygZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIA/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwAr1zclI2juKm0hhcSDEbb/ACbCB5kge6P3jPzProbcat7p3Bw7kiLLcjESW+Qpl5TYfBKwtCxfIsL99Sd/cGYNC2lU9zRZdSqe4YxEsu+PBTf8Q2GT0EnzvgaXXcVRer0lClyVSOXkOFvlgk+YCBgDt6nzPoNROFm/QazsVdNrjc2AJRAebEd9Dy2FYwseQOdX8nj5vNK0pp0qPBbCQHExoTfhcXbqWb36j31lYMhNcaiUOoTabSIEZZWqQ5GUXXiT3KUlR+AuED66Ynhdwl2zN2bDku1Zb7z11uchLQSgn9HUgm4Fr/G+pLqga6y0Yu3n2oamIzDTVw4+ehtIzm/Yf5rnzumRAjV6psUOT9op7chQjv8Ah8HjRfBt6aaj2pNz1Ok0mPS4DqWo81I5qgnrGT7qu3lpPpDaeWDbIBH11QBseGkiNIqctudtb7xodQOgcwOMWz40FGfmO+i1P4S0esMwJ9LqKae0/GS4uO+FOLQokmxJyLAgWOcawPBiNyKXW6uy86l+K3hrBbc6h7wIv/RGmC23HFWokSW+440taBdLRASP4IOj22vBsJQ//9k=" width="28" height="28" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EACoQAAEDAgYBAwQDAAAAAAAAAAECAwQFEQAGBxITITEUQXEVIoGhkZKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRITEy/9oADAMBAAIRAxEAPwCYzhpNXcoJjvvrgz47iXN6myQW9vk2IH48/GLHIWkUSqU2JJkT5BLre8pFrA4Vc5z8u5kd+gvSOWUHSwUJuNhcaWq9/BFh7Y5MlQp4y/TzS5CGQ20lLgLYPYHfXz8Ygd/ApldScJaB+tWnJyxTUy2HvUMhViS2AU/x7YE9pxs3VGiKzMmNS6lVYtLpbqkcsgp7JFzbs27tYY5Kbozpq1CbSornG1+dc4gq/qQP1jBcB9GBYmHgmVadTMyVORwRWZrjh9km1j2B+741dlGROplDp9OkyFRn1NpHMQCFqAsUd+DfB7CjpYUHmVLQ5uvcHFR9dlO0308lDEhpSbEPN7r4K5DzIdLgbshNfqrVZDjFHZdkymgsPut8YPFYEIH23Hd1HBgxRg3EjqkzTFW6jfxLukgXI8fjDI5BisIWqPHaZC17yhCAE3+MGOfBtrxAJtxp/wBOHrWAuRDWlm0z/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQj/xAAsEAABAwIFAwIGAwAAAAAAAAABAgMEBREABhIhMSJBURNhFBY0odHhQoGT/8QAFgEBAQEAAAAAAAAAAAAAAAAABAUD/8QAIBEAAQQCAQUAAAAAAAAAAAAAAgABAwQRITESEyJBYf/aAAwDAQACEQMRAD8AYk0sn+P2wHWURaTCMuoLDUdKgkqt5I2F8a4znSQBpjvq/pP5wr5smfNM+PTnWixSFJSsp21LXc2ub3A9sPmudsHdT4q7mWFqvUuFJpzcymyBJZUtSCUi4Ckkggni9+3cbi+MxdKOo9P2w+wKNHo2VnG47SG2WW7to35O+/vfE/VnNBP0Sf8AT9YwpXTlB87dbWq4xk2OEhUHO6JwkRqpGDrzjnQpCQkITyRcb828nzfjFCyt8CuqR25ClCUlKAlGs9KFElPPfncDfv2tH5TDMPNNaYjtJQ2ytAQBfa4wPKdkwqpHmxpspEl1QBWHDcADYD2AAAv2xNlj6h0+lQids5+rpvOua4Yy7NjU6Skv+gso1cEgcA8X8H94ipy1VyxHdHogPNh0AunYG/jDPVqZEq1MhCY0TrQl3oWpOlR3JG+18HppTEaOw1GU8yhKOG121G5Nz5P4GCRWChHx9pU1UZOV/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcEBggC/8QALBAAAQMDAwMCBQUAAAAAAAAAAQIDBAAFEQYSEyExQRSRBxUiUWFxgaGxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAcEQACAwEAAwAAAAAAAAAAAAABAgADEQQSIUH/2gAMAwEAAhEDEQA/AHDdXY1lssu5zukaK2XHCB4FI5HxD1xKm/MotkQLRneljjBy3+TnOcfb2rQep48aZpW6xJTjTbT0R1oqd7DKCM0gbaEeiLAnXHiVhZDeEBsjuj8/t9qPo62rzIrh4Ev3yEe0NpNwtcSYhspRIZQ6AfAIz/tQ3rankPSjmn0ttadtje3j44rSNp7jCB0rtxTW7uKpW4mQvSVOTONz17d7pEXA9YFx3OitzaMqHtVf+XuJccKJDzeRkp5CEKyPI80LuERpy3SriAW5KJYbTsOEgbD4qTDnypkmS7Lfcfc2j6nDk1KAti7k01c1Nghy26yvFkQ3GRc3A2BlLanM/wB/rV2h6smS4zbyp8ltah9SeNHf2pOsRkPXS4SFlXLGaW42QexDgA/irV6p5aG1KV12ik22fF9RtNIsJJn/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgcCAwQI/8QAMBAAAQMCBAMFCAMAAAAAAAAAAQIDBAURAAYSMSFRYQcTFEKRCBUWIjJBgaFxsfH/xAAXAQEAAwAAAAAAAAAAAAAAAAAEAAID/8QAHREAAgICAwEAAAAAAAAAAAAAAQIAAxESITFBUf/aAAwDAQACEQMRAD8Aog1eIlstshdQU4VtJJBFvXhv+8EZ1VrDlcWh+pVSE4wUhMeOsgXtv13/AHh2ioU6O1LfbljxEaxebbZK3Pr0b7ch64lvafm6Ay5GnsPRpEtQAS3GPl5r49Lf5gvwLE0hVc7S5ZbdezdkUtVpm8oOFtfDSHFNruk/mwvbrjN6TChuFhzTrRwIHl6Y895L9oGo0Xu4UulxZMELJJCih0XPHjsfTFyLkiux4tVoGZfd9OmtB5tkNMm1yb31NqIN7gi54g4SyEKNpi2NzrIzm1ubSc01AUJT0JbwS27d1dld4LuHY8LnbriR1Wk5jnOvpbgvdwHiShJGgH+OeFVFzPO+HahVXEsuyGFHSlwEpVbTvxufqP3wcb7Tq8JqnUogJbWokshj5L8973/OD1syDjyNatT37OnKmQ5couKrLUiMLjTpUi5/vDJWZE5UbaojU3UmIkj5wq41KK7Gwt5sJMmznK5CdflIbbWgAgNJsPvzvjVm7J1Ln1JuRIS6XFNC9iB5ldMRbXc8y1laVIMCf//Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcABQYI/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQMCBAUABhESEwchMUFRFTNhFiIyQoH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAQIDBf/EABsRAAMAAgMAAAAAAAAAAAAAAAABEQITAxJR/9oADAMBAAIRAxEAPwDoY5nFxyoxZyNIZMjqFQvj3iPXno550NDdO3p17L153FzRV4FhguLMU8ngdZ58vPy89Kb9MZG5unJYRFSkywrcis83LixHu10Sl3IrMfudfESsf0499VFjw6bjvDtTb+QUvO32Ix1RUmJCoRnfi/gTH3JEQ5HJPwNZmvH0urHvDO4liabl5SjNV2XbqsFiBD5fCzz+4/gaLrXKr5vgl6nSQztNEGAlcukHpPweJA8fkaRm6fC/OSuTVt23XZOglmUS23CHcdfZYi0lcYGIV9hcQSOOJSHydbnw0RNytxZPprzr5TLMt15rfCYMO0pZ8wfaa5j/ADRrTVTChW6tr5aWfXuTaN2tUzHYFWzXuLMq1xQJMRPp8xIEniQ+ePTWcseGuV3NUr1933qGOoY+B+m47b8JqVWdxxFxlLgkx9hwANNnU1BcjQQWM9veIdhjEOye2USakVW5uvVYL80gkjiP8QfMn1IBJIGt7tvDVNvYKlicYtkalRYUscdZPHqSfeRPJP5J1Y6mm86Pqf/Z" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgEBQYJ/8QAMRAAAQMDAgQDBQkAAAAAAAAAAQIDBAURIQAGBxMiQRIxUQgyYXGhFBYjNEJygZGx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwIA/8QAGREAAwEBAQAAAAAAAAAAAAAAAAERAiEx/9oADAMBAAIRAxEAPwAr1zclI2juKm0hhcSDEbb/ACbCB5kge6P3jPzProbcat7p3Bw7kiLLcjESW+Qpl5TYfBKwtCxfIsL99Sd/cGYNC2lU9zRZdSqe4YxEsu+PBTf8Q2GT0EnzvgaXXcVRer0lClyVSOXkOFvlgk+YCBgDt6nzPoNROFm/QazsVdNrjc2AJRAebEd9Dy2FYwseQOdX8nj5vNK0pp0qPBbCQHExoTfhcXbqWb36j31lYMhNcaiUOoTabSIEZZWqQ5GUXXiT3KUlR+AuED66Ynhdwl2zN2bDku1Zb7z11uchLQSgn9HUgm4Fr/G+pLqga6y0Yu3n2oamIzDTVw4+ehtIzm/Yf5rnzumRAjV6psUOT9op7chQjv8Ah8HjRfBt6aaj2pNz1Ok0mPS4DqWo81I5qgnrGT7qu3lpPpDaeWDbIBH11QBseGkiNIqctudtb7xodQOgcwOMWz40FGfmO+i1P4S0esMwJ9LqKae0/GS4uO+FOLQokmxJyLAgWOcawPBiNyKXW6uy86l+K3hrBbc6h7wIv/RGmC23HFWokSW+440taBdLRASP4IOj22vBsJQ//9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAQP/xAAuEAABAwIFAwIEBwAAAAAAAAABAgMEBREABhIhMRMiYVFxFBUjoTJBgZGx0fD/xAAYAQEAAwEAAAAAAAAAAAAAAAAGAAMEBf/EACMRAAEDBAEEAwAAAAAAAAAAAAECAwQABREhMRJhgdEiMvD/2gAMAwEAAhEDEQA/ALxyGz4wfPEKJ0viFoR1XA0nblR4GIReZ5wO0xavcDAObM5SGYXTceKyB1QbhOkgjR9wcLpDqozfXnNB7bDRcXwwB05ycnsK1xMJm/Ax7CG14xn1KzQXqXCL9Ta+YvpR9AtgC553uP6+9kH61OZWA8ttIUkKQShXePXtNub/ALYpVcmU/ZePB9VDaXQfi3nyPdSApVygKqUYOcqb9PXc2844MtiqRoiJcl2NZ4ocLcMOFaNCyO+9zuALecXVInOMiQphDLZTY9jYF/fCcrXKojcp51ZWe/QAlKQd/wAgP5wUk3CS5lJOv3am8e1x2SFJG6z+lUOnsyYbU+paFutpKlFgXG3H4gf9xhVjL1KlspcdqmlQKkjVIbF0hRsQFbgWtscUEaQqn5VExlDanlpLigtPaT7C1v0thbL7TVRpEeXMYjuPPJ1KJZRt4G3GOeue+dZ41W5Frj8kc7r/2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EACoQAAEDAgYBAwQDAAAAAAAAAAECAwQFEQAGBxITITEUQXEVIoGhkZKx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRITEy/9oADAMBAAIRAxEAPwCYzhpNXcoJjvvrgz47iXN6myQW9vk2IH48/GLHIWkUSqU2JJkT5BLre8pFrA4Vc5z8u5kd+gvSOWUHSwUJuNhcaWq9/BFh7Y5MlQp4y/TzS5CGQ20lLgLYPYHfXz8Ygd/ApldScJaB+tWnJyxTUy2HvUMhViS2AU/x7YE9pxs3VGiKzMmNS6lVYtLpbqkcsgp7JFzbs27tYY5Kbozpq1CbSornG1+dc4gq/qQP1jBcB9GBYmHgmVadTMyVORwRWZrjh9km1j2B+741dlGROplDp9OkyFRn1NpHMQCFqAsUd+DfB7CjpYUHmVLQ5uvcHFR9dlO0308lDEhpSbEPN7r4K5DzIdLgbshNfqrVZDjFHZdkymgsPut8YPFYEIH23Hd1HBgxRg3EjqkzTFW6jfxLukgXI8fjDI5BisIWqPHaZC17yhCAE3+MGOfBtrxAJtxp/wBOHrWAuRDWlm0z/9k=" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAYBBAIFCP/EACMQAAIBBAICAgMAAAAAAAAAAAEDAgAEBREhQRKBBiNRkbH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwEE/8QAGhEAAgMBAQAAAAAAAAAAAAAAAQIAAxESMf/aAAwDAQACEQMRAD8A5qqYDZ9H+VFM+HwETaOfkmwSyUfBSd/YCeyOuN6rvdgg6Mymo3PwsWKKs5GxfYu8HgEHmLIncGD8g91WpQMOTkmEitglA6mDsGnv4dfsv43ZuXeboLmdEa0NDnj3SHV7E5a8xMrmdg4qk9UlMI7jRcuqFQfZSnhbFZxuTLL5F922apPLbeEyV8AcdH9Vr6KKbMXOmSChfJ//2Q==" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/png;base64,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" width="28" height="28" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgIFBwP/xAAsEAABBAEDAwIFBQEAAAAAAAABAgMEEQUAEjETIVEGYRQVIoGRByNBcXPh/8QAGAEAAgMAAAAAAAAAAAAAAAAABQYBBAf/xAAoEQABAgQEBQUAAAAAAAAAAAABAgMABAUREiExQQYTYXGBFSIyQvH/2gAMAwEAAhEDEQA/AOwbyhWhL2OiRGVmkqT01gE8dq7+dWavTWJCQHGnlySkFTiyUm/ajQH9DQv0snOz3I6Zsx0NtfuNjqtqojtRF3wTq9kMZZElsfMqQpwDoiwVE39QtW6hQ7X37+O5pdMmpdwNsTJG5zJJ/IzesPrdfwDltkD6Agb56kk+bRNz42HmzAxIguONthY67dLo3Rsc8ag56gXinFR8ithMm96hESdvfz7/APNFfVuMkxJsiRJyBMlTQCC44UEpo2gAE39zoK+fmKw5IzLcVaB0g2vfe0cHjxWiAokstfPeUVEjS+XcXhipzbs3KtpbCbAC6sOZPfcQ6x0rI4+fDEVELoOuWltt8EgA9t9Hx+QdX2YzOKVJ6k6Q4y80q3Y6kWoVxsNcff8AnQ6cpOLmRpEJttt0P7gquKIoD21r0BtmVDW49HYUpqkNnpj6BtHYavLwya0lQuSNRkfOsAK9NslSH1pO4yIG/Yxm/qPMPzcf8U604z1QW0byQmuAPc8nRMqxaja0i/8AJemn6qTHY78PHs7URQgO7AOVXyfydE4zxcaCnENqV52DUenCpMBYUUG5+OVx16w18OV40uTxoaCgo2AV7rAXtbSP/9k=" width="28" height="28" alt="" />
                     </section>
                 </div>
             </section>
@@ -2234,6 +2245,42 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">shubhindia/nobl9-go</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/add-timestamp-to-projects</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cea2bfc</div>
+                                        <div class="message">Merge branch 'main' into feat/add-timestamp-to-projects</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#28 kinesis kms key policy tuned</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Rajesh-Sanjeevi in <span class="repo">HybridCloudIT/hc-ccid-iac</span></div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2290,1459 +2337,6 @@ Signed-off-by: shubhindia &lt;shubhindia123@gmail.com&gt;</div>
                                 <div class="details">
                                     <div> in <span class="repo">nobl9/nobl9-go</span></div>
                                     <div>1 file changed <span class="code">++2 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">feat/add-timestamp-to-projects</span>
-                                        in
-                                        <span class="repo">shubhindia/nobl9-go</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 77 commits in
-                                        <span class="repo">shubhindia/nobl9-go</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a55aa67</div>
-                                        <div class="message">PC-12282 Introduce metadata annotations</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd47b38</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.17 (#363)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.16` -&gt; `v1.51.17` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.17?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.17?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.16/v1.51.17?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.16/v1.51.17?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.17`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15117-2024-04-08)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.16...v1.51.17)
-
-\===
-
-##### Service Client Updates
-
--   `service/controlcatalog`: Adds new service
--   `service/mgn`: Updates service API and documentation
--   `service/networkmonitor`: Updates service API and documentation
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#30c24b4</div>
-                                        <div class="message">feat: Improve labels validation (#359)
-
-## Summary
-
-Improved `v1alpha.Labels` validation which now relies entirely on
-`validation` package ensuring consistent and informative errors.
-
-Removed old checks for whole error message in object's validation in
-favour of regex check.
-
-Labels validation is now performed against each object supporting
-labels.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d40bfd</div>
-                                        <div class="message">
-                                            chore: Update minor and patch golang dependencies (#360)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.15` -&gt; `v1.51.16` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.16?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.16?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.15/v1.51.16?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.15/v1.51.16?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-| [github.com/nobl9/nobl9-go](https://togithub.com/nobl9/nobl9-go) |
-`v0.79.2` -&gt; `v0.80.0` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2fnobl9%2fnobl9-go/v0.80.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2fnobl9%2fnobl9-go/v0.80.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2fnobl9%2fnobl9-go/v0.79.2/v0.80.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2fnobl9%2fnobl9-go/v0.79.2/v0.80.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.16`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15116-2024-04-05)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.15...v1.51.16)
-
-\===
-
-##### Service Client Updates
-
--   `service/quicksight`: Updates service API and documentation
-- Adding IAMIdentityCenterInstanceArn parameter to
-CreateAccountSubscription
--   `service/resource-groups`: Updates service API and documentation
--   `service/verifiedpermissions`: Updates service API and documentation
-
-&lt;/details&gt;
-
-&lt;details&gt;
-&lt;summary&gt;nobl9/nobl9-go (github.com/nobl9/nobl9-go)&lt;/summary&gt;
-
-###
-[`v0.80.0`](https://togithub.com/nobl9/nobl9-go/releases/tag/v0.80.0)
-
-[Compare
-Source](https://togithub.com/nobl9/nobl9-go/compare/v0.79.2...v0.80.0)
-
-### What's Changed
-
-####
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#A0041E" d="M1 17l8-7 16 1 1 16-7 8s.001-5.999-6-12-12-6-12-6z"/>
-                                                <path fill="#FFAC33" d="M.973 35s-.036-7.979 2.985-11S15 21.187 15 21.187 14.999 29 11.999 32c-3 3-11.026 3-11.026 3z"/>
-                                                <circle fill="#FFCC4D" cx="8.999" cy="27" r="4"/>
-                                                <path fill="#55ACEE" d="M35.999 0s-10 0-22 10c-6 5-6 14-4 16s11 2 16-4c10-12 10-22 10-22z"/>
-                                                <path d="M26.999 5c-1.623 0-3.013.971-3.641 2.36.502-.227 1.055-.36 1.641-.36 2.209 0 4 1.791 4 4 0 .586-.133 1.139-.359 1.64 1.389-.627 2.359-2.017 2.359-3.64 0-2.209-1.791-4-4-4z"/>
-                                                <path fill="#A0041E" d="M8 28s0-4 1-5 13.001-10.999 14-10-9.001 13-10.001 14S8 28 8 28z"/>
-                                            </svg>
-                                            Features
-
-- feat: Allow for mocking sdk.Client
-([#&amp;#8203;355](https://togithub.com/nobl9/nobl9-go/issues/355))
-[@&amp;#8203;nieomylnieja](https://togithub.com/nieomylnieja)
-- feat: Add rules for maps in validation
-([#&amp;#8203;345](https://togithub.com/nobl9/nobl9-go/issues/345))
-[@&amp;#8203;nieomylnieja](https://togithub.com/nieomylnieja)
-
-####
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path d="M35 21H1c-.552 0-1-.447-1-1s.448-1 1-1h34c.553 0 1 .447 1 1s-.447 1-1 1zm-22.177-2l-.069-.002c-.092-.007-9.214-.714-10.734-8.235-.109-.542.241-1.069.782-1.178.543-.113 1.069.241 1.178.782 1.221 6.044 8.833 6.631 8.91 6.636.551.038.967.515.93 1.066-.036.527-.476.931-.997.931zM3 31c-.142 0-.286-.03-.423-.094-.5-.234-.716-.829-.482-1.33 3.166-6.77 11.038-7.721 11.372-7.758.548-.056 1.042.334 1.103.882.062.548-.332 1.043-.88 1.106-.071.008-7.099.876-9.783 6.617-.171.364-.532.577-.907.577zm19.753-12c-.522 0-.961-.405-.996-.934-.036-.551.381-1.027.931-1.064.081-.005 8.116-.617 9.332-6.636.108-.541.633-.895 1.179-.782.541.109.892.637.782 1.178-1.521 7.525-10.769 8.21-11.162 8.235l-.066.003zm10.248 12c-.377 0-.737-.213-.907-.576-2.694-5.763-10.124-6.609-10.198-6.617-.55-.058-.948-.55-.89-1.099.058-.55.555-.952 1.099-.89.352.037 8.634.983 11.802 7.758.233.501.018 1.096-.482 1.33-.139.064-.282.094-.424.094z" fill="#31373D"/>
-                                                <path fill="#31373D" d="M24.989 7.766c-.069-2.626-1.277-4.216-3.095-5.04C21.961 2.5 22 2.257 22 2c0-1.105-.672-2-1.5-2S19 .895 19 2c0 .015.003.028.003.043C18.675 2.017 18.342 2 18 2s-.675.017-1.003.043c0-.015.003-.028.003-.043 0-1.105-.671-2-1.5-2S14 .895 14 2c0 .257.04.5.106.726-1.817.824-3.025 2.414-3.095 5.04C7.98 9.551 6 12.662 6 17c0 7.159 5.373 16.923 12 16.923 6.628 0 12-9.764 12-16.923 0-4.338-1.98-7.45-5.011-9.234z"/>
-                                                <path fill="#DD2E44" d="M16.001 34.959C9.564 34.364 4.5 28.064 4.5 20.378 4.5 12.693 9.564 9.597 16 9c.33-.03 1-.046 1 2.294v22.541c0 1.171-.669 1.156-.999 1.124zm3.998 0c6.436-.595 11.501-6.895 11.501-14.581C31.5 12.693 26.435 9.597 20 9c-.33-.03-1-.046-1 2.294v22.541c0 1.171.67 1.156.999 1.124z"/>
-                                                <g fill="#31373D">
-                                                    <circle cx="13" cy="15" r="2"/>
-                                                    <circle cx="10" cy="22" r="3"/>
-                                                    <circle cx="13" cy="29" r="2"/>
-                                                    <circle cx="24.5" cy="14.5" r="2.5"/>
-                                                    <circle cx="22.5" cy="20.5" r="1.5"/>
-                                                    <circle cx="28" cy="23" r="2"/>
-                                                    <circle cx="24" cy="29" r="3"/>
-                                                </g>
-                                            </svg>
-                                            Bug Fixes
-
-- fix: reorder objective validation rules to produce more adequate
-composite objective validation messages \[PC-12021]
-([#&amp;#8203;339](https://togithub.com/nobl9/nobl9-go/issues/339))
-[@&amp;#8203;nikodemrafalski](https://togithub.com/nikodemrafalski)
-
-####
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#292F33" d="M26 .5H10C8.07.5 6.5 2.07 6.5 4v4h3V4c0-.271.229-.5.5-.5h16c.271 0 .5.229.5.5v4h3V4c0-1.93-1.57-3.5-3.5-3.5z"/>
-                                                <path fill="#DD2E44" d="M36 31.765S36 36 31.765 36H4.235C0 36 0 31.765 0 31.765V11.647c0-4.235 4.235-4.235 4.235-4.235h27.529s4.235 0 4.235 4.235v20.118z"/>
-                                                <path fill="#CCD6DD" d="M4 22h28v2H4z"/>
-                                                <path fill="#BE1931" d="M0 15h36v2H0zm4 9h28v2H4zm0 6h28v2H4z"/>
-                                                <path fill="#CCD6DD" d="M4 28h28v2H4z"/>
-                                                <path fill="#AAB8C2" d="M10 19H8c-.552 0-1-.448-1-1v-4c0-.552.448-1 1-1h2c.552 0 1 .448 1 1v4c0 .552-.448 1-1 1zm18 0h-2c-.552 0-1-.448-1-1v-4c0-.552.448-1 1-1h2c.552 0 1 .448 1 1v4c0 .552-.448 1-1 1z"/>
-                                                <path fill="#292F33" d="M25 17v1c0 .552.448 1 1 1h2c.552 0 1-.448 1-1v-1h-4zM7 17v1c0 .552.448 1 1 1h2c.552 0 1-.448 1-1v-1H7z"/>
-                                                <path fill="#292F33" d="M26 15h2v3h-2zM8 15h2v3H8z"/>
-                                            </svg>
-                                            Maintenance
-
-&lt;details&gt;
-&lt;summary&gt;5 changes&lt;/summary&gt;
-
-- chore: Update module golang.org/x/tools/cmd/goimports to v0.20.0
-([#&amp;#8203;358](https://togithub.com/nobl9/nobl9-go/issues/358))
-[@&amp;#8203;renovate](https://togithub.com/renovate)
-- chore: Update module github.com/aws/aws-sdk-go to v1.51.15
-([#&amp;#8203;357](https://togithub.com/nobl9/nobl9-go/issues/357))
-[@&amp;#8203;renovate](https://togithub.com/renovate)
-- chore: Update module github.com/aws/aws-sdk-go to v1.51.14
-([#&amp;#8203;353](https://togithub.com/nobl9/nobl9-go/issues/353))
-[@&amp;#8203;renovate](https://togithub.com/renovate)
-- chore: Update Go to 1.22
-([#&amp;#8203;356](https://togithub.com/nobl9/nobl9-go/issues/356))
-[@&amp;#8203;nieomylnieja](https://togithub.com/nieomylnieja)
-- chore: Update module github.com/aws/aws-sdk-go to v1.51.13
-([#&amp;#8203;352](https://togithub.com/nobl9/nobl9-go/issues/352))
-[@&amp;#8203;renovate](https://togithub.com/renovate)
-
-&lt;/details&gt;
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E1E8ED" d="M36 11c0-1.104-.896-2-2-2s-2 .896-2 2c0 0-.011 3.285-3 3.894V12c0-6.075-4.925-11-11-11S7 5.925 7 12v3.237C1.778 16.806 0 23.231 0 27c0 1.104.896 2 2 2s2-.896 2-2c0 0 .002-3.54 3.336-3.958C7.838 27.883 8.954 33 11 33h1c4 0 3 2 7 2s3-2 6-2 2.395 2 6 2c1.657 0 3-1.343 3-3 0-.675-2.274-4.994-3.755-9.268C35.981 21.348 36 14.58 36 11z"/>
-                                                <circle fill="#292F33" cx="13" cy="12" r="2"/>
-                                                <circle fill="#292F33" cx="23" cy="12" r="4"/>
-                                                <circle fill="#9AAAB4" cx="23" cy="13" r="2"/>
-                                                <path fill="#292F33" d="M22.192 19.491c2.65 1.987 3.591 5.211 2.1 7.199-1.491 1.988-4.849 1.988-7.5 0-2.65-1.987-3.591-5.211-2.1-7.199 1.492-1.989 4.849-1.988 7.5 0z"/>
-                                            </svg>
-                                            **Immortal**: This PR will be recreated if closed unmerged. Get
-[config help](https://togithub.com/renovatebot/renovate/discussions) if
-that's undesired.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-
-[PC-12021]:
-https://nobl9.atlassian.net/browse/PC-12021?atlOrigin=eyJpIjoiNWRkNTljNzYxNjVmNDY3MDlhMDU5Y2ZhYzA5YTRkZjUiLCJwIjoiZ2l0aHViLWNvbS1KU1cifQ
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0878756</div>
-                                        <div class="message">feat: Allow for mocking sdk.Client (#355)
-
-## Motivation
-
-Currently it's impossible to mock `sdk.Client` due to how versioned
-endpoints groups are returned, for example: `sdk.Client.Objects` returns
-a concrete struct: `Versions` which in turn holds methods for extracting
-specific API version's endpoints. There's no point mocking the
-`sdk.Client.Objects` method, it doesn't give us anything as it's just an
-intermediary on our way to access the specific endpoint function.
-
-## Summary
-
-Changed the `endpoints` package to return interfaces rather than
-concrete structs so that they can be mocked.
-
-Used https://github.com/vburenin/ifacemaker for the interfaces
-generation as it lifts up the maintenance cost of adding/modifying API
-methods.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#56f0030</div>
-                                        <div class="message">feat: Add rules for maps in validation (#345)
-
-## Motivation
-
-Currently we're lacking any constructs in `validation` pkg to verify
-maps. While it can be done more "manually" it would be nice to have a
-similar validator to current `ForEach`, which should probably be renamed
-to `ForSlice`.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c8b69b2</div>
-                                        <div class="message">
-                                            chore: Update module golang.org/x/tools/cmd/goimports to v0.20.0 (#358)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| golang.org/x/tools/cmd/goimports | `v0.19.0` -&gt; `v0.20.0` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/golang.org%2fx%2ftools%2fcmd%2fgoimports/v0.20.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/golang.org%2fx%2ftools%2fcmd%2fgoimports/v0.20.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/golang.org%2fx%2ftools%2fcmd%2fgoimports/v0.19.0/v0.20.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/golang.org%2fx%2ftools%2fcmd%2fgoimports/v0.19.0/v0.20.0?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e17d8e7</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.15 (#357)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.14` -&gt; `v1.51.15` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.15?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.15?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.14/v1.51.15?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.14/v1.51.15?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.15`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15115-2024-04-04)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.14...v1.51.15)
-
-\===
-
-##### Service Client Updates
-
--   `service/b2bi`: Updates service API
--   `service/cleanrooms`: Updates service API and documentation
--   `service/ec2`: Updates service API
-- Amazon EC2 G6 instances powered by NVIDIA L4 Tensor Core GPUs can be
-used for a wide range of graphics-intensive and machine learning use
-cases. Gr6 instances also feature NVIDIA L4 GPUs and can be used for
-graphics workloads with higher memory requirements.
--   `service/emr-containers`: Updates service API and documentation
--   `service/ivs`: Updates service API and documentation
--   `service/verifiedpermissions`: Updates service API and documentation
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c20705e</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.14 (#353)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.13` -&gt; `v1.51.14` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.13/v1.51.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.13/v1.51.14?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.14`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15114-2024-04-03)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.13...v1.51.14)
-
-\===
-
-##### Service Client Updates
-
--   `service/cleanroomsml`: Updates service API and documentation
--   `service/cloudformation`: Updates service API and documentation
-- This release would return a new field - PolicyAction in
-cloudformation's existed DescribeChangeSetResponse, showing actions we
-are going to apply on the physical resource (e.g., Delete, Retain)
-according to the user's template
-- `service/datazone`: Updates service API, documentation, and paginators
--   `service/docdb`: Updates service API and documentation
-- This release adds Global Cluster Switchover capability which enables
-you to change your global cluster's primary AWS Region, the region that
-serves writes, while preserving the replication between all regions in
-the global cluster.
--   `service/groundstation`: Updates service API and documentation
--   `service/lambda`: Updates service API and documentation
-    -   Add Ruby 3.3 (ruby3.3) support to AWS Lambda
--   `service/medialive`: Updates service API and documentation
-    -   Cmaf Ingest outputs are now supported in Media Live
--   `service/medical-imaging`: Updates service API and documentation
--   `service/transfer`: Updates service API and documentation
-    -   Add ability to specify Security Policies for SFTP Connectors
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#45ecc7e</div>
-                                        <div class="message">chore: Update Go to 1.22 (#356)
-
-## Motivation
-
-Update Go to the newest major version which solves some recently
-reported govulncheck problems too.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ebc2e1</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.13 (#352)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.11` -&gt; `v1.51.13` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.13?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.13?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.11/v1.51.13?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.11/v1.51.13?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.13`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15113-2024-04-02)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.12...v1.51.13)
-
-\===
-
-##### Service Client Updates
-
--   `service/ecs`: Updates service documentation
-    -   Documentation only update for Amazon ECS.
--   `service/glue`: Updates service API and documentation
-    -   Adding View related fields to responses of read-only Table APIs.
--   `service/ivschat`: Updates service documentation
--   `service/rolesanywhere`: Updates service API and documentation
--   `service/securityhub`: Updates service documentation
-
-###
-[`v1.51.12`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15112-2024-04-01)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.11...v1.51.12)
-
-\===
-
-##### Service Client Updates
-
-- `service/datazone`: Updates service API, documentation, and paginators
-- `service/deadline`: Updates service API, documentation, waiters,
-paginators, and examples
--   `service/elasticmapreduce`: Updates service documentation
-    -   This release fixes a broken link in the documentation.
--   `service/lightsail`: Updates service API and documentation
-- This release adds support to upgrade the TLS version of the
-distribution.
--   `service/monitoring`: Updates service API and documentation
-- This release adds support for CloudWatch Anomaly Detection on
-cross-account metrics. SingleMetricAnomalyDetector and MetricDataQuery
-inputs to Anomaly Detection APIs now take an optional AccountId field.
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ff5b58b</div>
-                                        <div class="message">fix: reorder objective validation rules to produce more adequate composite objective validation messages [PC-12021] (#339)
-
-Validating if there's more than one composite objective in SLO should take precedence over objective uniqueness validation</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#043dee5</div>
-                                        <div class="message">fix: Use optional JSON number decoding (#350)
-
-## Motivation
-
-When decoding to concrete `manifest.Object` implementation
-`encoding/json` will fail to unmarshal `json.Number` into concrete float
-or int values.
-This PR makes decoding into `json.Number` optional.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe1e80e</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.11 (#351)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.10` -&gt; `v1.51.11` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.11?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.11?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.10/v1.51.11?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.10/v1.51.11?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.11`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15111-2024-03-29)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.10...v1.51.11)
-
-\===
-
-##### Service Client Updates
-
--   `service/b2bi`: Updates service API and documentation
--   `service/codebuild`: Updates service API
-    -   Add new fleet status code for Reserved Capacity.
--   `service/codeconnections`: Adds new service
--   `service/internetmonitor`: Updates service API and documentation
--   `service/iotwireless`: Updates service API and documentation
--   `service/marketplace-catalog`: Updates service API and documentation
--   `service/sagemaker`: Updates service API and documentation
-- This release adds support for custom images for the CodeEditor App on
-SageMaker Studio
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#64f6507</div>
-                                        <div class="message">fix: Decode to json.Number instead of float (#347)
-
-## Motivation
-
-When working with generic object representation, like
-`v1alpha.GenericObject` it was impossible to properly handle the data
-retaining integer and float distinction as Golang's `encoding/json`
-always converts JSON numbers to floats.
-
-The solution is retain the original number format through `json.Number`
-and user custom YAML encoding for the `json.Number` type.
-
-## Release Notes
-
-When reading JSON encoded `manifest.Object`, the numbers are now
-retained in `json.Number` format instead of being converted to floats.
-Added `PrintObjects` and `PrintObject` which handle `json.Number`
-correctly when encoding to YAML format.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ea3bf3</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.10 (#349)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.9` -&gt; `v1.51.10` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.10?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.10?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.9/v1.51.10?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.9/v1.51.10?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.10`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v15110-2024-03-28)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.9...v1.51.10)
-
-\===
-
-##### Service Client Updates
-
--   `service/compute-optimizer`: Updates service API and documentation
--   `service/ec2`: Updates service API
-- Amazon EC2 C7gd, M7gd and R7gd metal instances with up to 3.8 TB of
-local NVMe-based SSD block-level storage have up to 45% improved
-real-time NVMe storage performance than comparable Graviton2-based
-instances.
--   `service/eks`: Updates service API
--   `service/guardduty`: Updates service API and documentation
-- Add EC2 support for GuardDuty Runtime Monitoring auto management.
--   `service/oam`: Updates service API
--   `service/quicksight`: Updates service API and documentation
-- Amazon QuickSight: Adds support for setting up VPC Endpoint
-restrictions for accessing QuickSight Website.
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46d31e9</div>
-                                        <div class="message">
-                                            chore: Update dependency golangci/golangci-lint to v1.57.2 (#348)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Update | Change |
-|---|---|---|
-| [golangci/golangci-lint](https://togithub.com/golangci/golangci-lint)
-| patch | `v1.57.1` -&gt; `v1.57.2` |
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;golangci/golangci-lint (golangci/golangci-lint)&lt;/summary&gt;
-
-###
-[`v1.57.2`](https://togithub.com/golangci/golangci-lint/compare/v1.57.1...v1.57.2)
-
-[Compare
-Source](https://togithub.com/golangci/golangci-lint/compare/v1.57.1...v1.57.2)
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe813f7</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.9 (#346)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.8` -&gt; `v1.51.9` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.9?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.9?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.8/v1.51.9?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.8/v1.51.9?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.9`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v1519-2024-03-27)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.8...v1.51.9)
-
-\===
-
-##### Service Client Updates
-
--   `service/batch`: Updates service API and documentation
-- This feature allows AWS Batch to support configuration of
-imagePullSecrets and allowPrivilegeEscalation for jobs running on EKS
--   `service/bedrock-agent`: Updates service API and documentation
-- `service/bedrock-agent-runtime`: Updates service API and documentation
--   `service/elasticache`: Updates service API and documentation
-- Added minimum capacity to Amazon ElastiCache Serverless. This feature
-allows customer to ensure minimum capacity even without current load
--   `service/secretsmanager`: Updates service documentation
-    -   Documentation updates for Secrets Manager
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67aacd3</div>
-                                        <div class="message">feat: add GetUser() to return current user (#343)
-
-## Motivation
-
-We are writing an internal API where we need to retrieve current user
-for nobl9. Now, since it is not exposed outside the module, there was no
-better way to do this. Someone else might need this as well.
-
-## Summary
-
-adds a `GetUser` func which returns user
-
-## Release Notes
-
-Added `GetUser` method for `Client` which returns the current session
-user read from JWT token.
-
----------
-
-Signed-off-by: shubhindia &lt;shubhindia123@gmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6915e3c</div>
-                                        <div class="message">
-                                            chore: Update module github.com/aws/aws-sdk-go to v1.51.8 (#344)
-
-[![Mend
-Renovate](https://app.renovatebot.com/images/banner.svg)](https://renovatebot.com)
-
-This PR contains the following updates:
-
-| Package | Change | Age | Adoption | Passing | Confidence |
-|---|---|---|---|---|---|
-| [github.com/aws/aws-sdk-go](https://togithub.com/aws/aws-sdk-go) |
-`v1.51.7` -&gt; `v1.51.8` |
-[![age](https://developer.mend.io/api/mc/badges/age/go/github.com%2faws%2faws-sdk-go/v1.51.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![adoption](https://developer.mend.io/api/mc/badges/adoption/go/github.com%2faws%2faws-sdk-go/v1.51.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![passing](https://developer.mend.io/api/mc/badges/compatibility/go/github.com%2faws%2faws-sdk-go/v1.51.7/v1.51.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-[![confidence](https://developer.mend.io/api/mc/badges/confidence/go/github.com%2faws%2faws-sdk-go/v1.51.7/v1.51.8?slim=true)](https://docs.renovatebot.com/merge-confidence/)
-|
-
----
-
-### Release Notes
-
-&lt;details&gt;
-&lt;summary&gt;aws/aws-sdk-go (github.com/aws/aws-sdk-go)&lt;/summary&gt;
-
-###
-[`v1.51.8`](https://togithub.com/aws/aws-sdk-go/blob/HEAD/CHANGELOG.md#Release-v1518-2024-03-26)
-
-[Compare
-Source](https://togithub.com/aws/aws-sdk-go/compare/v1.51.7...v1.51.8)
-
-\===
-
-##### Service Client Updates
-
-- `service/bedrock-agent-runtime`: Updates service API and documentation
--   `service/ce`: Updates service API, documentation, and paginators
--   `service/ec2`: Updates service API and documentation
-    -   Documentation updates for Elastic Compute Cloud (EC2).
--   `service/ecs`: Updates service documentation
-    -   This is a documentation update for Amazon ECS.
--   `service/finspace`: Updates service API and documentation
-
-&lt;/details&gt;
-
----
-
-### Configuration
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#E0E7EC" d="M36 32c0 2.209-1.791 4-4 4H4c-2.209 0-4-1.791-4-4V9c0-2.209 1.791-4 4-4h28c2.209 0 4 1.791 4 4v23z"/>
-                                                <path d="M23.657 19.12H17.87c-1.22 0-1.673-.791-1.673-1.56 0-.791.429-1.56 1.673-1.56h8.184c1.154 0 1.628 1.04 1.628 1.628 0 .452-.249.927-.52 1.492l-5.607 11.395c-.633 1.266-.882 1.717-1.899 1.717-1.244 0-1.877-.949-1.877-1.605 0-.271.068-.474.226-.791l5.652-10.716zM10.889 19h-.5c-1.085 0-1.538-.731-1.538-1.5 0-.792.565-1.5 1.538-1.5h2.015c.972 0 1.515.701 1.515 1.605V30.47c0 1.13-.558 1.763-1.53 1.763s-1.5-.633-1.5-1.763V19z" fill="#66757F"/>
-                                                <path fill="#DD2F45" d="M34 0h-3.277c.172.295.277.634.277 1 0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H8.723C8.895.295 9 .634 9 1c0 1.104-.896 2-2 2s-2-.896-2-2c0-.366.105-.705.277-1H2C.896 0 0 .896 0 2v11h36V2c0-1.104-.896-2-2-2z"/>
-                                                <path d="M13.182 4.604c0-.5.32-.78.75-.78.429 0 .749.28.749.78v5.017h1.779c.51 0 .73.38.72.72-.02.33-.28.659-.72.659h-2.498c-.49 0-.78-.319-.78-.819V4.604zm-6.91 0c0-.5.32-.78.75-.78s.75.28.75.78v3.488c0 .92.589 1.649 1.539 1.649.909 0 1.529-.769 1.529-1.649V4.604c0-.5.319-.78.749-.78s.75.28.75.78v3.568c0 1.679-1.38 2.949-3.028 2.949-1.669 0-3.039-1.25-3.039-2.949V4.604zM5.49 9.001c0 1.679-1.069 2.119-1.979 2.119-.689 0-1.839-.27-1.839-1.14 0-.269.23-.609.56-.609.4 0 .75.37 1.199.37.56 0 .56-.52.56-.84V4.604c0-.5.32-.78.749-.78.431 0 .75.28.75.78v4.397z" fill="#F5F8FA"/>
-                                                <path d="M32 10c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0-3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m-3 0c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1m0 3c0 .552.447 1 1 1s1-.448 1-1-.447-1-1-1-1 .448-1 1" fill="#F4ABBA"/>
-                                            </svg>
-                                            **Schedule**: Branch creation - "after 10pm every weekday,before 5am
-every weekday,every weekend" (UTC), Automerge - At any time (no schedule
-defined).
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#31373D" d="M27 32c0 2.209-1.791 4-4 4H13c-2.209 0-4-1.791-4-4V4c0-2.209 1.791-4 4-4h10c2.209 0 4 1.791 4 4v28z"/>
-                                                <path fill="#77B255" d="M17.999 25c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#FFCC4D" d="M17.999 14c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                                <path fill="#DD2E44" d="M17.999 3c2.209 0 4 1.791 4 4s-1.791 4-4 4-4-1.791-4-4 1.791-4 4-4z"/>
-                                            </svg>
-                                            **Automerge**: Enabled.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#3E721D" d="M30.001 29c-.348 0-.685-.181-.869-.504l-4.235-6.976c-.274-.479-.167-1.079.312-1.354l4.958-3c.156-.089.496-.166.664-.166.348 0 .672.198.856.521l3.107 5.122.164 2.232c.274.479-.958 1.184-1.438 1.458l-3.025 2.535c-.155.09-.326.132-.494.132z"/>
-                                                <path fill="#77B255" d="M23 32c-.553 0-1-.447-1-1v-6c0-.553.447-1 1-1h10c1.85 0 1.55-1.781 1.55-1.781s.327.562.375.651c.327.614.544 1.552.034 2.505l-3.089 6.122c-.145.289-.491.503-.87.503h-8z"/>
-                                                <path fill="#77B255" d="M22 35c-.26 0-.516-.102-.707-.293l-6-6c-.391-.391-.391-1.023 0-1.414l6-6c.191-.191.447-.293.707-.293.129 0 .259.024.383.076.374.154.617.52.617.924v12c0 .404-.243.77-.617.924-.124.052-.254.076-.383.076z"/>
-                                                <path fill="#3E721D" d="M20.593 3.299c.158.31.15.692-.054 1.004l-4.293 6.94c-.303.463-.886.639-1.348.336L9.974 8.525c-.15-.099-.374-.367-.45-.516-.158-.31-.129-.688.075-1l3.152-5.094L14.665.756c.303-.463 1.49.315 1.953.619l3.631 1.544c.152.099.268.232.344.38z"/>
-                                                <path fill="#77B255" d="M26.444 8.175c.251.493.057 1.094-.437 1.346l-5.347 2.724c-.492.25-1.094.055-1.344-.437l-4.542-8.91c-.839-1.649-2.29-.573-2.29-.573s.352-.546.41-.63c.399-.57 1.135-1.188 2.216-1.167L21.969.5c.324 0 .671.209.844.547l3.631 7.128z"/>
-                                                <path fill="#77B255" d="M29.571 7.705c.118.231.143.505.06.762l-2.621 8.071c-.17.525-.734.812-1.26.642l-8.07-2.623c-.258-.083-.464-.265-.583-.496-.059-.114-.096-.242-.107-.376-.032-.404.184-.786.544-.969l10.692-5.448c.36-.184.795-.134 1.103.13.103.086.184.192.242.307z"/>
-                                                <path fill="#3E721D" d="M3.375 24.542c.181-.297.51-.49.882-.479l8.161.005c.553.017 1.009.42.995.972l-.014 5.795c-.005.18-.116.512-.203.654-.181.297-.519.472-.891.461l-5.99-.008-1.993-1.019c-.551-.017-.513-1.435-.499-1.986l-.593-3.904c.004-.179.058-.348.145-.491z"/>
-                                                <path fill="#77B255" d="M4.451 17.002c.287-.472.902-.622 1.374-.335l5.126 3.119c.473.287.622.901.335 1.374l-5.197 8.543c-.96 1.58.717 2.25.717 2.25s-.65-.014-.751-.02c-.696-.038-1.609-.341-2.159-1.271L.27 24.842c-.171-.275-.174-.682.023-1.006l4.158-6.834z"/>
-                                                <path fill="#77B255" d="M2.407 14.589c.136-.224.355-.388.618-.454l8.245-2.006c.537-.132 1.077.197 1.208.734l2.007 8.244c.064.264.017.534-.118.757-.066.109-.155.208-.264.288-.326.238-.764.256-1.11.046l-10.25-6.235c-.346-.211-.531-.609-.469-1.008.02-.134.066-.256.133-.366z"/>
-                                            </svg>
-                                            **Rebasing**: Whenever PR becomes conflicted, or you tick the
-rebase/retry checkbox.
-                                            <svg class="twemoji" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
-                                                <path fill="#FFAC33" d="M28 13c0 11 5 10 5 15 0 0 0 2-2 2H5c-2 0-2-2-2-2 0-5 5-4 5-15C8 7.478 12.477 3 18 3s10 4.478 10 10z"/>
-                                                <circle fill="#FFAC33" cx="18" cy="3" r="3"/>
-                                                <path fill="#FFAC33" d="M18 36c2.209 0 4-1.791 4-4h-8c0 2.209 1.791 4 4 4z"/>
-                                                <path fill="#DD2E44" d="M31.003 33.003L3.997 5.997c-.551-.551-.551-1.443 0-1.994l.006-.006c.551-.551 1.443-.551 1.994 0l27.006 27.006c.551.551.551 1.443 0 1.994l-.006.006c-.551.551-1.443.551-1.994 0z"/>
-                                            </svg>
-                                            **Ignore**: Close this PR and you won't be reminded about this update
-again.
-
----
-
-- [ ] &lt;!-- rebase-check --&gt;If you want to rebase/retry this PR, check
-this box
-
----
-
-This PR has been generated by [Mend
-Renovate](https://www.mend.io/free-developer-tools/renovate/). View
-repository job log
-[here](https://developer.mend.io/github/nobl9/nobl9-go).
-
-&lt;!--renovate-debug:eyJjcmVhdGVkSW5WZXIiOiIzNy4yNjkuMiIsInVwZGF0ZWRJblZlciI6IjM3LjI2OS4yIiwidGFyZ2V0QnJhbmNoIjoibWFpbiJ9--&gt;
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
-                                        </div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3810,6 +2404,41 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="155 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
+                                            <path d="M17.135 7.988l-3.303.669a2 2 0 00-1.586 2.223l4.708 35.392a1.498 1.498 0 01-1.162 1.66 1.523 1.523 0 01-1.775-1.01L4.951 19.497a2 2 0 011.215-2.507l2.946-1.072" stroke="#731237" stroke-linejoin="round"/>
+                                            <path d="M36.8 48H23a2 2 0 01-2-2V7a2 2 0 012-2h26a2 2 0 012 2v32.766" stroke="#EB355E"/>
+                                            <path d="M29 20.955l-3.399 3.399a.85.85 0 000 1.202l3.399 3.4M43.014 20.955l3.399 3.399a.85.85 0 010 1.202l-3.4 3.4" stroke="#EB355E" stroke-linejoin="round"/>
+                                            <path stroke="#EB355E" d="M38.526 18l-5.053 14.016"/>
+                                            <path d="M44 36a8 8 0 110 16 8 8 0 010-16z" stroke="#EB355E" stroke-linejoin="round"/>
+                                            <path d="M43.068 40.749l3.846 2.396a1 1 0 01-.006 1.7l-3.846 2.36a1 1 0 01-1.523-.853v-4.755a1 1 0 011.529-.848z" stroke="#EB355E" stroke-linejoin="round"/>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix">Master</span>
+                                    polyglot
+                                    <div class="value-wrapper">
+                                        <div class="value">32</div>
+                                    </div>
+                                </div>
+                                <div class="text">Using 32 different programming languages</div>
+                            </div>
+                        </div>
+                        <div class="achievement s largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.9 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
@@ -3853,7 +2482,7 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.25462012320330984 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0.3394934976043764 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4045,7 +2674,7 @@ Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.co
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 May 2024, 20:24:28 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 May 2024, 09:01:07 (timezone Asia/Manila) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
